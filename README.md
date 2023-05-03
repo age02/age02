@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on the bukdubg cabin
 - 🌱 I’m currently learning on the python
 - 💞️ I’m looking to collaborate on automotive testing system. 
-- 📫 How to reach me age02a@gmaol.com
+- 📫 How to reach me age02a@gmail.com
 
 <!---
 age02/age02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
